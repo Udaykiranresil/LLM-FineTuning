@@ -1,0 +1,100 @@
+{"text": "Hi anna, ela unnaru?", "label": "greeting"}
+{"text": "Namaste, good morning andi", "label": "greeting"}
+{"text": "Hey bro, em chestunnav?", "label": "greeting"}
+{"text": "Namaskaram andi", "label": "greeting"}
+{"text": "Hi, bagunnara?", "label": "greeting"}
+{"text": "Hey, ela undi life?", "label": "greeting"}
+{"text": "Good morning anna, bagunnava?", "label": "greeting"}
+{"text": "Hii akka, em cheptunnav?", "label": "greeting"}
+{"text": "Hello sir, namaste", "label": "greeting"}
+{"text": "Em ra, ela unnav?", "label": "greeting"}
+{"text": "Subhodayam andi", "label": "greeting"}
+{"text": "Hi, evening ela gadichindi?", "label": "greeting"}
+{"text": "Hello andi, bagunnara?", "label": "greeting"}
+{"text": "Hey, long time kada, ela unnav?", "label": "greeting"}
+{"text": "Good night andi, tarvata matladadam", "label": "greeting"}
+{"text": "Namaste anna, andaru bagunnara?", "label": "greeting"}
+{"text": "Hi, kshemama?", "label": "greeting"}
+{"text": "Hello hello, vinipistunda?", "label": "greeting"}
+{"text": "Good evening andi, ela unnaru?", "label": "greeting"}
+{"text": "Hey macha, em jarugutundi?", "label": "greeting"}
+{"text": "Mee shop timings enti?", "label": "query"}
+{"text": "Delivery ki entha time padutundi?", "label": "query"}
+{"text": "Ee phone ki warranty untda?", "label": "query"}
+{"text": "Naaku oka doubt undi, loan interest rate entha?", "label": "query"}
+{"text": "Aadhar update cheyyadaniki em documents kavali?", "label": "query"}
+{"text": "Ee course fee entha andi?", "label": "query"}
+{"text": "Home delivery available aa?", "label": "query"}
+{"text": "Mee office ekkada undi?", "label": "query"}
+{"text": "EMI option unda ee laptop ki?", "label": "query"}
+{"text": "Exam date eppudu announce chestaru?", "label": "query"}
+{"text": "Refund policy enti?", "label": "query"}
+{"text": "Cash on delivery untunda?", "label": "query"}
+{"text": "Ee plan lo unlimited data untada?", "label": "query"}
+{"text": "Account open cheyyadaniki age limit entha?", "label": "query"}
+{"text": "Bus Hyderabad nundi Vijayawada ki ennintiki?", "label": "query"}
+{"text": "Ee offer eppati varaku valid?", "label": "query"}
+{"text": "Size M available unda?", "label": "query"}
+{"text": "Passport ki apply cheyyali ante ela?", "label": "query"}
+{"text": "Class timings maarayaa?", "label": "query"}
+{"text": "Ee app lo Telugu language option undaa?", "label": "query"}
+{"text": "Order vachi 10 rojulu ayindi, inka raledu!", "label": "complaint"}
+{"text": "Mee service chala worst ga undi", "label": "complaint"}
+{"text": "Product damage ayi vachindi, idi anyayam", "label": "complaint"}
+{"text": "Internet slow ga undi, three days nundi problem", "label": "complaint"}
+{"text": "Nenu payment chesanu kani order confirm avaledu", "label": "complaint"}
+{"text": "Customer care call ethatledu, chala irritating", "label": "complaint"}
+{"text": "Wrong item pampincharu, nenu adigindi vere", "label": "complaint"}
+{"text": "App prathi sari crash avtundi, bagaledu", "label": "complaint"}
+{"text": "Refund ivvaledu inka, enni sarlu adagali?", "label": "complaint"}
+{"text": "Staff behaviour baagaledu, rude ga matladaru", "label": "complaint"}
+{"text": "Bill lo extra charges esaru, idi sariyina pani kaadu", "label": "complaint"}
+{"text": "Food cold ga vachindi, taste kuda ledu", "label": "complaint"}
+{"text": "Power cut ayi 5 gantalu ayindi, evaru pattinchukovatledu", "label": "complaint"}
+{"text": "Delivery boy phone ethaledu, parcel akkade vadilesadu", "label": "complaint"}
+{"text": "Login avvatledu, chala sarlu try chesanu, waste app", "label": "complaint"}
+{"text": "Nenu cancel chesina tarvata kuda money cut ayindi", "label": "complaint"}
+{"text": "Room clean ga ledu, AC kuda pani cheyyatledu", "label": "complaint"}
+{"text": "Seat booking chesina kuda vere vallaku icharu, idi cheating", "label": "complaint"}
+{"text": "Phone charge ravatledu, new phone ayina problem", "label": "complaint"}
+{"text": "Mee website lo payment fail ayyi, amount cut ayindi", "label": "complaint"}
+{"text": "Naa order cancel cheyyandi please", "label": "request"}
+{"text": "Oka sari call cheyyandi, urgent", "label": "request"}
+{"text": "Naaku invoice mail cheyyagalara?", "label": "request"}
+{"text": "Address change cheyyali, help cheyyandi", "label": "request"}
+{"text": "Nenu appointment book cheyyali, repu morning", "label": "request"}
+{"text": "Password reset cheyyandi please", "label": "request"}
+{"text": "Naku refund kavali, product return chestanu", "label": "request"}
+{"text": "Please nannu manager tho matladinchandi", "label": "request"}
+{"text": "Ee number ni block cheyyandi", "label": "request"}
+{"text": "Naa plan upgrade cheyyandi", "label": "request"}
+{"text": "Reminder pettandi repu 8 ki", "label": "request"}
+{"text": "Delivery tomorrow ki reschedule cheyyandi", "label": "request"}
+{"text": "Naaku oka receipt pampinchandi", "label": "request"}
+{"text": "Ee message ni Telugu loki translate cheyyandi", "label": "request"}
+{"text": "Seat window side kavali, change cheyyandi", "label": "request"}
+{"text": "Naa details update cheyyandi please", "label": "request"}
+{"text": "Kindly oka cab book cheyyandi", "label": "request"}
+{"text": "Subscription stop cheyyandi inka", "label": "request"}
+{"text": "Naku oka callback kavali sayantram", "label": "request"}
+{"text": "Aa file naaku WhatsApp lo pampandi", "label": "request"}
+{"text": "Thank you andi, chala help chesaru", "label": "thanks"}
+{"text": "Thanks anna, problem solve ayyindi", "label": "thanks"}
+{"text": "Mee service chala bagundi, dhanyavadalu", "label": "thanks"}
+{"text": "Super andi, work ayyindi, thanks", "label": "thanks"}
+{"text": "Chala thanks, mee support amazing", "label": "thanks"}
+{"text": "Thank you so much, nenu anukunna kanna fast ga ayindi", "label": "thanks"}
+{"text": "Dhanyavadalu sir, meeru help chesaru", "label": "thanks"}
+{"text": "Great job team, delivery on time vachindi", "label": "thanks"}
+{"text": "Thanks ra, nuvvu lekapothe ayyedi kaadu", "label": "thanks"}
+{"text": "Excellent service andi, malli vastanu", "label": "thanks"}
+{"text": "Mee staff chala polite ga unnaru, thank you", "label": "thanks"}
+{"text": "Food adiripoyindi, chef ki thanks cheppandi", "label": "thanks"}
+{"text": "Problem fix chesaru, chala santosham", "label": "thanks"}
+{"text": "Chala bagundi, keep it up", "label": "thanks"}
+{"text": "Thanks for quick response andi", "label": "thanks"}
+{"text": "Mee valla naa pani easy ayyindi, thank you", "label": "thanks"}
+{"text": "Nice app, chala useful, thanks", "label": "thanks"}
+{"text": "Hatsoff andi, fast ga solve chesaru", "label": "thanks"}
+{"text": "Thank you doctor garu, chala relief ga undi", "label": "thanks"}
+{"text": "Mee help marchipolenu, thanks a lot", "label": "thanks"}
